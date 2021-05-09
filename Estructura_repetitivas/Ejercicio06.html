@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>Ejercicio 6 - Do While</title>
+    </head>
+    <body>
+        <script>
+            var valor;
+            do {
+                valor=prompt("Introduce un valor entre 0 y 999:"," ");
+                valor=parseInt(valor);
+                document.write("El valor "+valor+" ");
+                if(valor<10){
+                    document.write("Tiene 1 digito.");
+                }
+                else {
+                    if (valor<100) {
+                        document.write("Tiene 2 digitos.");
+                    }
+                    else {
+                        document.write("Tiene 3 digitos.");
+                    }
+                }
+                document.write("<br>");
+            }
+            while (valor!=0);
+        </script>
+    </body>
+</html>
