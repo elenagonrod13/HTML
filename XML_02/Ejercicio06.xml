@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<informatica>
+
+    <c:ciclo>
+        <c:nombre>Tecnico Superior en Desarrolo de Aplicacines Multiplataforma</c:nombre>
+        <c:duracion>2000 horas</c:duracion>
+        <c:contenido>Configurar y explotar sistemas informáticos. Configurar y explotar sistemas informáticos. Gestionar bases de datos. Gestionar entornos de desarrollo. Desarrollar aplicaciones multiplataforma. Integrar contenidos gráficos y componentes multimedia en aplicaciones multiplataforma. Desarrollar interfaces gráficos de usuario interactivos y con la usabilidad adecuada. Desarrollar aplicaciones para teléfonos, PDA y otros dispositivos móviles empleando técnicas y entornos de desarrollo específicos.</c:contenido>
+        <c:modulo>Sistemas informáticos, Bases de Datos, Programación, Lenguajes de marcas y sistemas de gestión de información, Entornos de desarrollo, Acceso a datos, Desarrollo de interfaces, Programación multimedia y dispositivos móviles, Programación de servicios y procesos, Sistemas de gestión empresarial, Proyecto de desarrollo de aplicaciones multiplataforma, Formación y orientación laboral, Empresa e iniciativa emprendedora, Formación en centros de trabajo.</c:modulo>
+        <c:salidas>Las personas con este perfil profesional ejercen su actividad en entidades públicas o privadas de cualquier tamaño, tanto por cuenta ajena como por cuenta propia, desempeñando su trabajo en el área de desarrollo de aplicaciones informáticas multiplataforma en diversos ámbitos: gestión empresarial y de negocio, relaciones con clientes, educación, ocio, dispositivos móviles y entretenimiento, entre otros; aplicaciones desarrolladas e implantadas en entornos de alcance intranet, extranet e Internet; implantación y adaptación de sistemas de planificación de recursos empresariales y de gestión de relaciones con clientes.</c:salidas>
+    </c:ciclo>
+
+
+    <b:ciclo>
+        <b:nombre>Tecnico Superior en Desarrolo de Aplicacines Multiplataforma</b:nombre>
+        <b:duracion>2000 horas</b:duracion>
+        <b:contenido>Configurar y explotar sistemas informáticos. Configurar y explotar sistemas informáticos. Gestionar bases de datos. Gestionar entornos de desarrollo. Desarrollar aplicaciones multiplataforma. Integrar contenidos gráficos y componentes multimedia en aplicaciones multiplataforma. Desarrollar interfaces gráficos de usuario interactivos y con la usabilidad adecuada. Desarrollar aplicaciones para teléfonos, PDA y otros dispositivos móviles empleando técnicas y entornos de desarrollo específicos.</b:contenido>
+        <b:modulo>Sistemas informáticos, Bases de Datos, Programación, Lenguajes de marcas y sistemas de gestión de información, Entornos de desarrollo, Acceso a datos, Desarrollo de interfaces, Programación multimedia y dispositivos móviles, Programación de servicios y procesos, Sistemas de gestión empresarial, Proyecto de desarrollo de aplicaciones multiplataforma, Formación y orientación laboral, Empresa e iniciativa emprendedora, Formación en centros de trabajo.</b:modulo>
+        <b:salidas>Las personas con este perfil profesional ejercen su actividad en entidades públicas o privadas de cualquier tamaño, tanto por cuenta ajena como por cuenta propia, desempeñando su trabajo en el área de desarrollo de aplicaciones informáticas multiplataforma en diversos ámbitos: gestión empresarial y de negocio, relaciones con clientes, educación, ocio, dispositivos móviles y entretenimiento, entre otros; aplicaciones desarrolladas e implantadas en entornos de alcance intranet, extranet e Internet; implantación y adaptación de sistemas de planificación de recursos empresariales y de gestión de relaciones con clientes.</b:salidas>
+    </b:ciclo>
+
+</informatica>

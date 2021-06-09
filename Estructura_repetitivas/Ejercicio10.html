@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Ejercicio 10 - For</title>
+    </head>
+    <body>
+        <script>
+            var negativo=0;
+            var positivo=0;
+            var multiplo=0;
+            var par=0;
+            var i;
+            var valor;
+            for(i=1;i<=10;i++) {
+                valor=prompt('Ingrese un valor:','');
+                valor=parseInt(valor);
+                if (valor<0) {
+                negativo++;
+                }
+                else {
+                    if (valor>0) {
+                        positivo++;
+                    }
+                }
+                if (valor%15==0 && valor!=0) {
+                    multiplo++;
+                }
+                if (valor%2==0) {
+                    par=par+valor;
+                }
+            }
+            document.write('Cantidad de valores negativos:'+negativo+'<br>');
+            document.write('Cantidad de valores positivos:'+positivo+'<br>');
+            document.write('Cantidad de múltiplos de 15:'+multiplo+'<br>');
+            document.write('Suma de los valores pares ingresados:'+par+'<br>');
+        </script>
+
+    </body>
+</html>

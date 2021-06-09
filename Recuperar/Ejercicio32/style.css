@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+
+body {
+    font-family: 'Lora', sans-serif;
+    margin: 0;
+}
+
+/* Titulos */
+
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+h2{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h4{
+
+}
+
+/* Sección cabecera */
+
+#cabecera {
+    text-align: left;
+    background-color: coral;
+    padding-left: 30px;
+    margin-top: 40px;
+}
+
+/* Sección cuerpo */
+
+#cuerpo {
+    padding-left: 4%;
+
+}
+
+/* Seccion pie */
+
+#pie {
+    background-color: brown;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 50px;
+}
+
+/* Parrafo pie */
+
+#pie p {
+    text-align: center;
+    color:burlywood;
+    text-decoration: none;
+}
+
+/* Parrafos */
+
+
+
+/* Flecha subir (al final de cada sección) */
+
+
+
+/* Menu de navegación horizontal */
+
+#cabecera ul {
+    text-transform:uppercase;
+}

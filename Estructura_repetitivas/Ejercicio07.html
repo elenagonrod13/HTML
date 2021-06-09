@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>Ejercicio 7 - Do While</title>
+    </head>
+    <body>
+        <script>
+            var n_cuenta;
+            var nombre;
+            var saldo=0;
+            var acreedor=0;
+            do {
+            n_cuenta=prompt('Ingrese numero de cuenta:','');    
+            n_cuenta=parseInt(n_cuenta);
+                if (n_cuenta>=0) {
+                    nombre=prompt('Nombre del cliente:');
+                    saldo=prompt('Saldo actual:','');
+                    saldo=parseInt(saldo);
+                    if (saldo>0) {
+                        acreedor=acreedor+saldo;
+                        document.write(nombre+' tiene saldo acreedor<br>');
+                    }
+                    else {
+                        if (saldo<0) {
+                            document.write(nombre+' tiene saldo deudor<br>');
+                        }
+                        else {
+                            document.write(nombre+' tiene saldo nulo<br>');
+                        }
+                    }      
+                }
+            }while(n_cuenta>0);
+            document.write('Suma total de saldos acreedores:'+acreedor);
+         </script>
+    </body>
+</html>
